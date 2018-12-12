@@ -1,6 +1,7 @@
 # KakaoSnackGame
 제 1회 카카오스낵게임 공모전 응시작.
 <hr>
+<image src="https://user-images.githubusercontent.com/22215395/49850791-3b2dca80-fe22-11e8-8c3c-a01c6db100f7.jpg">
 
 <pre>
 플레이 진행 플로우
